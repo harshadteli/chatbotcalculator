@@ -48,7 +48,7 @@ This Project do not required any License
 <img src="devicei.png" height="auto" width="100%" style="2px solid #3498db; border-radius:10px;box-shadow:0 0 10px rgba(226, 46, 46, 0.2);">
 
 ## Live Demo
-[View Live Demo](https://harshtech.github.io/chatbotcalculator/)
+[View Live Demo](https://harshadteli.github.io/chatbotcalculator/)
 
 ## Feedback Form
 [Feedback Form](https://harshadteli.github.io/feedbackformgithub)
